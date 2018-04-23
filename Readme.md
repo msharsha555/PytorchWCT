@@ -33,9 +33,9 @@ python WCT.py --cuda
 
 <img src="samples/in5.jpg" width="400" hspace="10"><img src="samples/in6.jpg" width="400" hspace="10">
 
-<img src="images/content/in7.jpg" width="200" hspace="5"><img src="images/style/in7.jpg" width="200" hspace="5">
+<img src="images/content/in7.jpg" width="200" height="200" hspace="5"><img src="images/style/in7.jpg" width="200" hspace="5">
 
-<img src="samples/in7.jpg" width="400" height = "800" hspace="10">
+<img src="samples/in7.jpg" width="400" height = "450" hspace="10">
 ### Acknowledgments
 Many thanks to the author Yijun Li for his kind help.
 
